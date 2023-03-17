@@ -1,2 +1,3 @@
 This is the first push
 
+Second edit (click "i" for entering editing mode; ":wq" to save and exit)
